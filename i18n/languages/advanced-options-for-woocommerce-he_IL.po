@@ -1,0 +1,92 @@
+# Copyright (C) 2020 Condless
+# This file is distributed under the same license as the Advanced Options for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Options for WooCommerce 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/advanced-options-"
+"for-woocommerce\n"
+"Language-Team: Condless <info@condless.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-13 10:59+0300\n"
+"PO-Revision-Date: 2020-07-13 11:03+0300\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Domain: advanced-options-for-woocommerce\n"
+"Last-Translator: Condless <info@condless.com>\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"Language: he_IL\n"
+
+#. Plugin Name of the plugin
+msgid "Advanced Options for WooCommerce"
+msgstr "אפשרויות מתקדמות לווקומרס"
+
+#. Plugin URI of the plugin
+msgid "https://en.condless.com/advanced-options-for-woocommerce/"
+msgstr "https://www.condless.com/advanced-options-for-woocommerce/"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce plugin for more options and customization. Simple and Easy to "
+"use."
+msgstr "תוסף לווקומרס שמציע אפשרויות נוספות והתאמה אישית. פשוט וקל לשימוש."
+
+#. Author of the plugin
+msgid "Condless"
+msgstr "Condless"
+
+#. Author URI of the plugin
+msgid "https://www.condless.com/"
+msgstr "https://www.condless.com/"
+
+#: advanced-options-for-woocommerce.php:342
+msgctxt "plugin"
+msgid "Advanced Options"
+msgstr "אפשרויות מתקדמות"
+
+#: advanced-options-for-woocommerce.php:377
+msgctxt "plugin"
+msgid ""
+"Display the VAT amount and the product price include & exlude it in single "
+"product page"
+msgstr "הצג את סכום המע\"מ ואת מחיר המוצר כולל ולא כולל בעמוד מוצר"
+
+#: advanced-options-for-woocommerce.php:383
+msgctxt "plugin"
+msgid "Display for variable products the attribute name instead of"
+msgstr "הצג במוצרים עם וריאיציות את שם התכונה במקום"
+
+#: advanced-options-for-woocommerce.php:389
+msgctxt "plugin"
+msgid "Display only products in"
+msgstr "הצג מוצרים בלבד ב"
+
+#: advanced-options-for-woocommerce.php:395
+msgctxt "plugin"
+msgid "Add html classes to the button depends on product parameters"
+msgstr "הוסף לכפתור קלאסים לפי הפרמטרים של המוצר"
+
+#: advanced-options-for-woocommerce.php:401
+msgctxt "plugin"
+msgid ""
+"Do not ask customer address if he pays by cash and does not need shipping"
+msgstr "אל תבקש כתובת מהלקוח אם הוא משלם במזומן ואינו צריך משלוח"
+
+#: advanced-options-for-woocommerce.php:407
+msgctxt "plugin"
+msgid ""
+"Display the add to cart button for the current product with "
+"[current_add_to_cart] and display the total sales by id/category with [sales]"
+msgstr ""
+"הצג את כפתור ההוספה לסל של המוצר הנוכחי עם [current_add_to_cart] והצג את סה"
+"\"כ המכירות לפי id או category עם [sales]"
+
+#: advanced-options-for-woocommerce.php:413
+msgctxt "plugin"
+msgid ""
+"Adds in the admin products table a column of the current items quantity in "
+"proccessing orders"
+msgstr ""
+"מוסיף בטבלת המוצרים שבאדמין עמודה שמציגה את המספר הנוכחי של הפריטים הנמצאים "
+"בהזמנות שבעיבוד"
